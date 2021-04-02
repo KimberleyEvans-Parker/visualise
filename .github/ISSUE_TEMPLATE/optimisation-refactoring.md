@@ -1,8 +1,8 @@
 ---
 name: Optimisation/Refactoring
-about: Describe this issue template's purpose here.
+about: Suggest a time, size or code related optimisation
 title: ''
-labels: ''
+labels: refactor/optimisation
 assignees: ''
 
 ---
